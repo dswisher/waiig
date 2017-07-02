@@ -10,6 +10,6 @@ described in the book.
 
 ## Useful Links
 
-* Writing an Interpreter in Go - [home](https://interpreterbook.com/)
+* Writing an Interpreter in Go - [home](https://interpreterbook.com/) and [code](https://interpreterbook.com/waiig_code_1.3.zip)
 * [Go Docs](https://golang.org/doc/): [How to Write](https://golang.org/doc/code.html)
 * [vim-go](https://github.com/fatih/vim-go/), and its [docs](https://github.com/fatih/vim-go/blob/master/doc/vim-go.txt)
